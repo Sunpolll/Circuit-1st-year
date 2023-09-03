@@ -3,6 +3,4 @@ A circuit for measuring stress levels, roughly in a small size.
 
 ## This video is about analyzing this stress measuring circuit
 CLICK THE IMAGE TO WATCH
-[![Video](https://img.youtube.com/vi/SkzVlGftS-A/maxresdefault.jpg)](https://www.youtube.com/watch?v=SkzVlGftS-A)
-
-
+[![Video](https://img.youtube.com/vi/SkzVlGftS-A/maxresdefault.jpg)](https://www.youtube.com/watch?v=SkzVlGftS-A){:target="_blank"}
